@@ -1,12 +1,5 @@
 ## Hi there 👋
 
-<!--
-**DHJJJS/DHJJJS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 <p align='center'>
   <a href="https://github.com/DHJJJSg">
     <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=gradient&text=DHJJJS&reversal=false&textBg=false&fontAlign=51&fontSize=65&animation=twinkling&desc=Junior&rotate=0&fontAlignY=47"/>
