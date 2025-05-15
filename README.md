@@ -1,10 +1,12 @@
-## Hi there 👋
 
 <p align='center'>
   <a href="https://github.com/DHJJJSg">
     <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=gradient&text=DHJJJS&reversal=false&textBg=false&fontAlign=51&fontSize=65&animation=twinkling&desc=Junior&rotate=0&fontAlignY=47"/>
   </a>
 </p>
+
+
+  
 
 ## Using Languages
 <p align='left'>
@@ -53,4 +55,11 @@
 
 
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=DHJJJS&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/DHJJJS"
+    width="600"
+    height="120"
+  />
+</a>
 
