@@ -164,7 +164,7 @@
         <img src="https://img.shields.io/badge/Community-Contribution-EA4335?style=for-the-badge" alt="Community"/>
         <br><br>
         <div style="background-color:#f9f9f9; padding:10px; border-radius:8px;">
-          <p>기술 커뮤니티 기여 활동</p>
+          <p>커뮤니티 기여</p>
         </div>
       </td>
     </tr>
