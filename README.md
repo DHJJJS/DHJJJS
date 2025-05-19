@@ -157,14 +157,14 @@
         <img src="https://img.shields.io/badge/Portfolio-Development-239120?style=for-the-badge" alt="Portfolio"/>
         <br><br>
         <div style="background-color:#f9f9f9; padding:10px; border-radius:8px;">
-          <p>개인 역량 강화 및 프로젝트 포트폴리오 확장</p>
+          <p>프로젝트 포트폴리오 확장</p>
         </div>
       </td>
       <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/Community-Contribution-EA4335?style=for-the-badge" alt="Community"/>
+        <img src="https://img.shields.io/badge/Skill-Development-EA4335?style=for-the-badge" alt="Community"/>
         <br><br>
         <div style="background-color:#f9f9f9; padding:10px; border-radius:8px;">
-          <p>커뮤니티 기여</p>
+          <p>개인 역량 강화</p>
         </div>
       </td>
     </tr>
