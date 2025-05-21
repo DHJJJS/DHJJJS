@@ -152,54 +152,59 @@
 
 ## 🚀 프로젝트
 
-<div align="left">
-  <a href="https://github.com/Pknu-IoT-ifteam/UnderGround">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pknu-IoT-ifteam&repo=UnderGround&hide_border=false&bg_color=ffffff&title_color=6E5494&text_color=333333&icon_color=6E5494&border_color=e4e2e2&border_radius=10"/>
-  </a>
-</div>
-<div align="right">
-  <table>
-    <tr>
-      <th align="center" width="30%" style="background-color:#6E5494; color:white;">
-        개발 기간
-      </th>
-      <td align="center">
-        2025.03 ~ 2025.04
+<div align="center">
+  <table border="0">
+    <tr valign="top">
+      <td width="400px">
+        <a href="https://github.com/Pknu-IoT-ifteam/UnderGround">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pknu-IoT-ifteam&repo=UnderGround&hide_border=false&bg_color=ffffff&title_color=6E5494&text_color=333333&icon_color=6E5494&border_color=e4e2e2&border_radius=10"/>
+        </a>
       </td>
-    </tr>
-    <tr>
-      <th align="center" width="30%" style="background-color:#6E5494; color:white;">
-        사용 기술
-      </th>
-      <td align="center">
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
-        <img src="https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unreal-engine&logoColor=white" alt="Unreal Engine"/>
-      </td>
-    </tr>
-    <tr>
-      <th align="center" width="30%" style="background-color:#6E5494; color:white;">
-        주요 기능
-      </th>
-      <td align="left">
-        <ul>
-          <li>💥 3:3 팀 대전 FPS 게임플레이</li>
-          <li>🎯 전략적 점령 시스템</li>
-          <li>🛠️ 다양한 역할군 스킬 시스템</li>
-          <li>🤖 AI 로직</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <th align="center" width="30%" style="background-color:#6E5494; color:white;">
-        배운 점
-      </th>
-      <td align="left">
-        Unreal Engine 기초, C++ 게임 로직 구현, 팀 협업 프로세스
+      <td width="500px">
+        <table>
+          <tr>
+            <th align="center" width="30%" style="background-color:#6E5494; color:white;">
+              개발 기간
+            </th>
+            <td align="center">
+              2025.03 ~ 2025.04
+            </td>
+          </tr>
+          <tr>
+            <th align="center" width="30%" style="background-color:#6E5494; color:white;">
+              사용 기술
+            </th>
+            <td align="center">
+              <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
+              <img src="https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unreal-engine&logoColor=white" alt="Unreal Engine"/>
+            </td>
+          </tr>
+          <tr>
+            <th align="center" width="30%" style="background-color:#6E5494; color:white;">
+              주요 기능
+            </th>
+            <td align="left">
+              <ul>
+                <li>💥 3:3 팀 대전 FPS 게임플레이</li>
+                <li>🎯 전략적 점령 시스템</li>
+                <li>🛠️ 다양한 역할군 스킬 시스템</li>
+                <li>🤖 AI 로직</li>
+              </ul>
+            </td>
+          </tr>
+          <tr>
+            <th align="center" width="30%" style="background-color:#6E5494; color:white;">
+              배운 점
+            </th>
+            <td align="left">
+              Unreal Engine 기초, C++ 게임 로직 구현, 팀 협업 프로세스
+            </td>
+          </tr>
+        </table>
       </td>
     </tr>
   </table>
 </div>
-
 <br>
 
 <!-- 깃 애니멀 -->
