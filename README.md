@@ -230,6 +230,12 @@
 
 <br><br>
 
-<div align="center">
-  <img src="https://render.gitanimals.org/lines/DHJJJS" width="100%" alt="Git Animals" />
-</div>
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=DHJJJS&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/DHJJJS?pet-id=712887199515137247"
+    width="600"
+    height="120"
+  />
+</a>
+  
