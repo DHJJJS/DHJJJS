@@ -1,3 +1,9 @@
+
+<!-- 폰트 불러오기 코드 추가 -->
+<style>
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css");
+</style>
+
 <!-- 
 폰트 변경을 위한 스타일 추가
 테마에 어울리는 'Pretendard' 폰트를 적용합니다.
@@ -6,7 +12,7 @@ Pretendard는 깔끔하면서도 현대적인 느낌의 한글 폰트로 기술�
 
 <div align="center" style="font-family: 'Pretendard', sans-serif;">
   <!-- 헤더 섹션 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:6E5494,50:8A63B4,100:4B367C&text=DHJJJS&fontColor=ffffff&fontSize=90&animation=twinkling&fontAlignY=35&desc=Windows 기반 IoT 시스템 개발자&descAlignY=55&descSize=18&descColor=E5E5E5&fontFamily=Pretendard"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:6E5494,50:8A63B4,100:4B367C&text=DHJJJS&fontColor=ffffff&fontSize=90&animation=twinkling&fontAlignY=35&descAlignY=55&descSize=18&descColor=E5E5E5&fontFamily=Pretendard"/>
 
   <!-- 뱃지 섹션 -->
   <p align="center" style="font-family: 'Pretendard', sans-serif;">
@@ -277,7 +283,3 @@ Pretendard는 깔끔하면서도 현대적인 느낌의 한글 폰트로 기술�
   <img src="https://komarev.com/ghpvc/?username=DHJJJS&style=flat-square&color=6E5494" alt="프로필 조회수" />
 </div>
 
-<!-- 폰트 불러오기 코드 추가 -->
-<style>
-@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css");
-</style>
