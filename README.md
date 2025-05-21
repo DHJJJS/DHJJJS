@@ -152,9 +152,12 @@
 
 ## 🚀 프로젝트
 
+<div align="left">
   <a href="https://github.com/Pknu-IoT-ifteam/UnderGround">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pknu-IoT-ifteam&repo=UnderGround&hide_border=false&bg_color=ffffff&title_color=6E5494&text_color=333333&icon_color=6E5494&border_color=e4e2e2&border_radius=10"/>
   </a>
+</div>
+<div align="right">
   <table>
     <tr>
       <th align="center" width="30%" style="background-color:#6E5494; color:white;">
@@ -195,6 +198,7 @@
       </td>
     </tr>
   </table>
+</div>
 
 <br>
 
