@@ -96,7 +96,6 @@
 
 ## 🎯 목표
 
-<div align="center">
 <!DOCTYPE html>
 <html lang="ko">
 <head>
@@ -236,7 +235,6 @@
 </body>
 </html>
 
-<br>
 
 ## 🚀 프로젝트
 
