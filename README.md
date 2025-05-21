@@ -1,7 +1,7 @@
 
 <!-- 폰트 불러오기 코드 추가 -->
 <style>
-@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css");
+import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css");
 </style>
 
 <!-- 
