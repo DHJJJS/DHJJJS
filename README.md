@@ -29,7 +29,7 @@ Noto Sans KR는 깔끔하면서도 현대적인 느낌의 한글 폰트로 기�
   </p>
 
   <!-- 타이핑 효과 - Noto Sans KR 폰트 적용 -->
-  <p align="center" style="font-family: 'Noto Sans KR', sans-serif;">
+  <p align="center" style="font-family: sans-serif;">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto Sans KR&size=18&pause=1000&color=6E5494&center=true&vCenter=true&width=435&lines=Windows+%EA%B8%B0%EB%B0%98+IoT+%EC%8B%9C%EC%8A%A4%ED%85%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90;C%23%2FC%2B%2B+%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98+%EA%B0%9C%EB%B0%9C%EC%9E%90;%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4+%EC%84%A4%EA%B3%84+%EB%B0%8F+%EC%B5%9C%EC%A0%81%ED%99%94" alt="Typing SVG" /></a>
   </p>
 
