@@ -95,145 +95,58 @@
 <br>
 
 ## 🎯 목표
-
-<!DOCTYPE html>
-<html lang="ko">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>자격증 진행 상황</title>
-  <style>
-    body {
-      font-family: 'Arial', sans-serif;
-      margin: 0;
-      padding: 20px;
-    }
-    
-    .container {
-      max-width: 800px;
-      margin: 0 auto;
-    }
-    
-    table {
-      width: 100%;
-      border-collapse: collapse;
-    }
-    
-    td {
-      padding: 15px;
-      text-align: center;
-      vertical-align: top;
-    }
-    
-    .badge {
-      display: inline-block;
-      padding: 8px 16px;
-      border-radius: 6px;
-      font-weight: bold;
-      color: white;
-      margin-bottom: 10px;
-    }
-    
-    .info-badge {
-      background-color: #512BD4;
-    }
-    
-    .sqld-badge {
-      background-color: #FF9800;
-    }
-    
-    .portfolio-badge {
-      background-color: #239120;
-    }
-    
-    .skill-badge {
-      background-color: #EA4335;
-    }
-    
-    p {
-      margin: 10px 0;
-      font-size: 14px;
-    }
-    
-    .progress-container {
-      width: 250px;
-      height: 20px;
-      background-color: #f0f0f0;
-      border-radius: 10px;
-      margin: 10px auto;
-      overflow: hidden;
-    }
-    
-    .progress-bar {
-      height: 100%;
-      border-radius: 10px;
-      color: white;
-      text-align: center;
-      line-height: 20px;
-      font-size: 12px;
-      transition: width 1s ease;
-    }
-    
-    .progress-info {
-      background-color: #6E5494;
-      width: 75%;
-    }
-    
-    .progress-sqld {
-      background-color: #FF9800;
-      width: 60%;
-    }
-    
-    .progress-portfolio {
-      background-color: #239120;
-      width: 40%;
-    }
-    
-    .progress-skill {
-      background-color: #EA4335;
-      width: 65%;
-    }
-  </style>
-</head>
-<body>
-  <div class="container">
-    <table>
-      <tr>
-        <td>
-          <div class="badge info-badge">정보처리기사 자격증</div>
-          <p>정보처리기사 자격증 취득</p>
-          <div class="progress-container">
-            <div class="progress-bar progress-info">진행도: 75%</div>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/정보처리기사-자격증-512BD4?style=for-the-badge" alt="정보처리기사"/>
+        <p>정보처리기사 자격증 취득</p>
+        <div style="display: flex; align-items: center; justify-content: center;">
+          <div style="background-color: #f3f3f3; border-radius: 8px; width: 250px; height: 20px;">
+            <div style="width: 75%; background-color: #6E5494; height: 20px; border-radius: 8px; text-align: center; color: white; font-size: 12px; line-height: 20px;">
+              진행도: 75%
+            </div>
           </div>
-        </td>
-        <td>
-          <div class="badge sqld-badge">SQLD 자격증</div>
-          <p>SQLD 자격증 취득</p>
-          <div class="progress-container">
-            <div class="progress-bar progress-sqld">진행도: 60%</div>
+        </div>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/SQLD-자격증-FF9800?style=for-the-badge" alt="SQLD"/>
+        <p>SQLD 자격증 취득</p>
+        <div style="display: flex; align-items: center; justify-content: center;">
+          <div style="background-color: #f3f3f3; border-radius: 8px; width: 250px; height: 20px;">
+            <div style="width: 60%; background-color: #FF9800; height: 20px; border-radius: 8px; text-align: center; color: white; font-size: 12px; line-height: 20px;">
+              진행도: 60%
+            </div>
           </div>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <div class="badge portfolio-badge">Portfolio Development</div>
-          <p>프로젝트 포트폴리오 확장</p>
-          <div class="progress-container">
-            <div class="progress-bar progress-portfolio">진행도: 40%</div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Portfolio-Development-239120?style=for-the-badge" alt="Portfolio"/>
+        <p>프로젝트 포트폴리오 확장</p>
+        <div style="display: flex; align-items: center; justify-content: center;">
+          <div style="background-color: #f3f3f3; border-radius: 8px; width: 250px; height: 20px;">
+            <div style="width: 40%; background-color: #239120; height: 20px; border-radius: 8px; text-align: center; color: white; font-size: 12px; line-height: 20px;">
+              진행도: 40%
+            </div>
           </div>
-        </td>
-        <td>
-          <div class="badge skill-badge">Skill Development</div>
-          <p>개인 역량 강화</p>
-          <div class="progress-container">
-            <div class="progress-bar progress-skill">진행도: 65%</div>
+        </div>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Skill-Development-EA4335?style=for-the-badge" alt="Skill"/>
+        <p>개인 역량 강화</p>
+        <div style="display: flex; align-items: center; justify-content: center;">
+          <div style="background-color: #f3f3f3; border-radius: 8px; width: 250px; height: 20px;">
+            <div style="width: 65%; background-color: #EA4335; height: 20px; border-radius: 8px; text-align: center; color: white; font-size: 12px; line-height: 20px;">
+              진행도: 65%
+            </div>
           </div>
-        </td>
-      </tr>
-    </table>
-  </div>
-</body>
-</html>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 ## 🚀 프로젝트
