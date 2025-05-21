@@ -53,7 +53,7 @@
   <table border="0" cellspacing="0" cellpadding="20" style="margin: 0 auto;">
     <tr>
       <td align="center" width="33%">
-        <h3 style="margin-bottom:15px; font-size:18px; color:#6E5494;">💻 개발 언어</h3>
+        <h3 style="margin-bottom:15px; font-size:18px; color:#6E5494;">💻 공부 언어</h3>
         <p>
           <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/><br>
           <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/><br>
@@ -71,7 +71,7 @@
         </p>
       </td>
       <td align="center" width="33%">
-        <h3 style="margin-bottom:15px; font-size:18px; color:#6E5494;">🛠️ 개발 도구</h3>
+        <h3 style="margin-bottom:15px; font-size:18px; color:#6E5494;">🛠️ 공부 툴 </h3>
         <p>
           <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio"/><br>
           <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/><br>
