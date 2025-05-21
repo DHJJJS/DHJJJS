@@ -154,10 +154,6 @@
 
 <div align="center">
   <a href="https://github.com/Pknu-IoT-ifteam/UnderGround">
-    <img src="https://img.shields.io/badge/Underground-C++%20Game%20Project-6E5494?style=for-the-badge&logo=github" alt="Underground Project"/>
-  </a>
-
-  <a href="https://github.com/Pknu-IoT-ifteam/UnderGround">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pknu-IoT-ifteam&repo=UnderGround&hide_border=false&bg_color=ffffff&title_color=6E5494&text_color=333333&icon_color=6E5494&border_color=e4e2e2&border_radius=10"/>
   </a>
 </div>
