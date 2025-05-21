@@ -1,9 +1,3 @@
-
-<!-- 폰트 불러오기 코드 추가 -->
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&display=swap');
-</style>
-
 <!-- 
 폰트 변경을 위한 스타일 추가
 테마에 어울리는 'Noto Sans KR' 폰트를 적용합니다.
