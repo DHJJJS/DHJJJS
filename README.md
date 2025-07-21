@@ -91,7 +91,7 @@
 
 <br>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=사용자%20중심의%20안정적인%20시스템%20개발을%20목표로%20하고%20있습니다&author=DHJJJS" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad&author=Cory%20House" alt="Quote"/>
 
 </div>
 
