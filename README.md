@@ -8,8 +8,6 @@
 [![Email](https://img.shields.io/badge/Email-sjdldi123%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:sjdldi123@gmail.com)
 [![GitHub](https://img.shields.io/badge/Github-DHJJJS-333333?style=flat-square&logo=github)](https://github.com/DHJJJS)
 
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -23,8 +21,6 @@
 ![WPF](https://img.shields.io/badge/WPF-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
 
 ## 💼 Projects
 
