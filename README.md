@@ -8,6 +8,10 @@
 [![Email](https://img.shields.io/badge/Email-sjdldi123%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:sjdldi123@gmail.com)
 [![GitHub](https://img.shields.io/badge/Github-DHJJJS-333333?style=flat-square&logo=github)](https://github.com/DHJJJS)
 
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -22,40 +26,67 @@
 ![Unreal Engine](https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 💼 Projects
-
-### 🎮 UnderGround - 3D FPS 게임
-<div align="left">
-  <a href="https://github.com/Pknu-IoT-ifteam/UnderGround">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pknu-IoT-ifteam&repo=UnderGround&theme=default&hide_border=true" alt="UnderGround Repository"/>
-  </a>
 </div>
-
-**개발 기간**: 2025.03 ~ 2025.04 | **기술 스택**: `C++` `Unreal Engine`  
-**담당 역할**: AI 적 로직 구현, 아이템 시스템 개발 (HP/궁극기 아이템), 맵 디자인
-
-**주요 성과**
-- AI 행동 패턴 로직 설계 및 구현
-- 게임 내 아이템 효과 시스템 개발
-- 팀 협업을 통한 3:3 대전 게임 완성
-
-### 💼 ERP 재고관리 시스템 *(🚧 진행 예정)*
-**기술 스택**: `C#` `WPF` `MySQL`  
-**목표**: 상품 관리, 재고 추적, 데이터베이스 연동
 
 ---
 
-## 📚 Learning & Goals
+## 💼 Projects
 
-**현재 학습 중**
+<table>
+<tr>
+<td width="400px">
+
+### 🎮 UnderGround - 3D FPS 게임
+<a href="https://github.com/Pknu-IoT-ifteam/UnderGround">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pknu-IoT-ifteam&repo=UnderGround&theme=default&hide_border=true" alt="UnderGround Repository"/>
+</a>
+
+</td>
+<td width="500px">
+
+**📅 개발 기간**: 2025.03 ~ 2025.04  
+**🔧 기술 스택**: `C++` `Unreal Engine`  
+**👤 담당 역할**: AI 적 로직 구현, 아이템 시스템 개발, 맵 디자인
+
+**📈 주요 성과**
+- AI 행동 패턴 로직 설계 및 구현
+- 게임 내 아이템 효과 시스템 개발 (HP/궁극기)
+- 팀 협업을 통한 3:3 대전 게임 완성
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 💼 ERP 재고관리 시스템 *(🚧 진행 예정)*
+**기술 스택**: `C#` `WPF` `MySQL`  
+상품 관리, 재고 추적, 데이터베이스 연동 기능 구현 목표
+
+</div>
+
+---
+
+<table>
+<tr>
+<td width="50%">
+
+## 📚 현재 학습 중
 - 정보처리기사 자격증 준비
 - C# 기반 데스크톱 애플리케이션 개발
 - 데이터베이스 설계 및 최적화
 
-**관심 분야**
+</td>
+<td width="50%">
+
+## 🎯 관심 분야
 - ERP/MES 시스템 개발
 - 윈도우 데스크톱 애플리케이션
 - IoT 시스템 연동
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -63,4 +94,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DHJJJS&show_icons=true&theme=default&hide_border=true&custom_title=GitHub%20Stats)
 
----
+> 🎯 **"사용자 중심의 안정적인 시스템 개발"**을 목표로 하고 있습니다.
+
+</div>
