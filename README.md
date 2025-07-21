@@ -91,8 +91,4 @@
 
 <br>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad&author=Cory%20House" alt="Quote"/>
-
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:6E5494,100:4B367C" />
