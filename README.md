@@ -1,4 +1,4 @@
-# 안녕하세요! 👋 저는 **DHJJJS** 입니다
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:6E5494,50:8A63B4,100:4B367C&text=DHJJJS&fontColor=ffffff&fontSize=70&animation=twinkling&fontAlignY=35" />
 
 <div align="center">
 
@@ -7,8 +7,6 @@
 
 [![Email](https://img.shields.io/badge/Email-sjdldi123%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:sjdldi123@gmail.com)
 [![GitHub](https://img.shields.io/badge/Github-DHJJJS-333333?style=flat-square&logo=github)](https://github.com/DHJJJS)
-
-</div>
 
 ---
 
@@ -25,8 +23,6 @@
 ![WPF](https://img.shields.io/badge/WPF-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
 
 ---
 
@@ -71,12 +67,4 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DHJJJS&show_icons=true&theme=default&hide_border=true&custom_title=GitHub%20Stats)
 
-</div>
-
 ---
-
-<div align="center">
-
-> 🎯 **"사용자 중심의 안정적인 시스템 개발"**을 목표로 하고 있습니다.
-
-</div>
